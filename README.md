@@ -113,6 +113,20 @@
   <tbody>
     <tr>
       <td>
+        <a href="https://github.com/farazahmedy/devsecops-security-scanning-suite">
+          <b>??? devsecops-security-scanning-suite</b>
+        </a>
+      </td>
+      <td>
+        <b>SonarQube & DevSecOps Toolkit:</b> SonarQube Quality Gates, Gitleaks custom secret regexes, Checkov IaC compliance, Trivy & Docker Compose runners.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Security-SonarQube_Passed-blue?style=flat-square" /><br>
+        <code>SonarQube</code> <code>Gitleaks</code> <code>Checkov</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/farazahmedy/terraform-azure-reusable-modules">
           <b>🧱 terraform-azure-reusable-modules</b>
         </a>
