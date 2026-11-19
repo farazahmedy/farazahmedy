@@ -36,7 +36,7 @@
       <ul>
         <li>☁️ <b>Focus Area:</b> Enterprise Landing Zones, AKS, Terraform IaC & GitOps</li>
         <li>⚡ <b>Core Philosophy:</b> If it's not automated, it's broken. Zero-downtime releases always!</li>
-        <li>🎯 <b>Certifications Track:</b> AZ-900 ➔ AZ-104 ➔ AZ-305 ➔ AZ-400</li>
+        <li>🌱 <b>Hands-on Projects:</b> Cloud Automation, Infrastructure as Code, CI/CD & Kubernetes</li>
         <li>💬 <b>Ask me about:</b> Hub-and-Spoke VNets, Kubernetes clustering, CI/CD pipelines & FinOps</li>
         <li>📫 <b>Get in touch:</b> <a href="mailto:a.faraz18@gmail.com">a.faraz18@gmail.com</a></li>
       </ul>
@@ -97,7 +97,7 @@
           <b>📘 azure-cloud-mastery-and-resources</b>
         </a>
       </td>
-      <td>Master Azure Handbook: Complete AZ-900/104/305/400 study notes, Hub-Spoke architecture, KQL & CLI cheat sheets.</td>
+      <td>Master Azure Handbook: Real-world Cloud Architecture Blueprints, Terraform Modules, KQL & CLI cheat sheets.</td>
       <td><code>Azure</code> <code>KQL</code> <code>Architectures</code></td>
     </tr>
     <tr>
