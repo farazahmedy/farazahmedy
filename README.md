@@ -93,6 +93,15 @@
   <tbody>
     <tr>
       <td>
+        <a href="https://github.com/farazahmedy/terraform-azure-reusable-modules">
+          <b>?? terraform-azure-reusable-modules</b>
+        </a>
+      </td>
+      <td>Complete Reusable Terraform Modules: Linux/Windows VMs, Bastion, NAT, VMSS, VNet, Storage, SQL & AKS.</td>
+      <td><code>Terraform</code> <code>Azure VMs</code> <code>Modules</code></td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/farazahmedy/azure-cloud-mastery-and-resources">
           <b>📘 azure-cloud-mastery-and-resources</b>
         </a>
